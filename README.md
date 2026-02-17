@@ -149,7 +149,7 @@ numpy>=1.24.0
 Clone the repository:
 
 ```bash
-git clone https://github.com/joshclark/spectral.git
+git clone https://github.com/polardev-ui/spectral.git
 cd spectral
 ```
 
