@@ -828,4 +828,4 @@ Spectral is released under the MIT License. See the [LICENSE](LICENSE) file for 
 
 ---
 
-Created by **Josh Clark**.
+Created by **Josh Clark**. P.S. If you don't like math, neither do I. You have no idea how many courses I had to go through to relearn calculus and trig...
