@@ -5,8 +5,8 @@ from spectral.models import Point2D, EyeData, TrackingConfig
 
 
 class EyeTracker:
-    LEFT_EYE_INDICES = [33, 7, 163, 144, 145, 153, 154, 155, 133, 173, 157, 158, 159, 160, 161, 246]
-    RIGHT_EYE_INDICES = [362, 382, 381, 380, 374, 373, 390, 249, 263, 466, 388, 387, 386, 385, 384, 398]
+    LEFT_EYE_INDICES = [33, 7, 163, 144, 145, 153, 154, 155, 133, 173, 157, 158, 159, 160, 161, 246] # this took too long...
+    RIGHT_EYE_INDICES = [362, 382, 381, 380, 374, 373, 390, 249, 263, 466, 388, 387, 386, 385, 384, 398] # this one too...
 
     LEFT_EYE_UPPER = [159, 160, 161, 158]
     LEFT_EYE_LOWER = [145, 144, 163, 153]
