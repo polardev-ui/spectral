@@ -6,7 +6,7 @@ Spectral is an open-source Python library that provides real-time face detection
 
 Built on top of MediaPipe and OpenCV, Spectral abstracts away the complexity of facial analysis and exposes a clean, intuitive API that developers can use with just a few lines of code.
 
-Created by **Josh Clark**, a 14-year-old software engineer.
+Created by **Josh Clark**, a 15-year-old software engineer.
 
 ---
 
