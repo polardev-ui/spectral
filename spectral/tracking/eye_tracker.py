@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List, Optional # Thanks to over 400 volunteers to get their faces scanned for this project to be functional and accurate!
 import math
 
 from spectral.models import Point2D, EyeData, TrackingConfig
